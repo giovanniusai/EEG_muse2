@@ -1,8 +1,8 @@
-2021-04-11 12:27:33 weka.gui.GenericObjectEditor registerEditors
+2021-04-18 16:34:47 weka.gui.GenericObjectEditor registerEditors
 INFO: ---Registering Weka Editors---
-2021-04-11 12:27:34 weka.experiment.DatabaseUtils initialize
+2021-04-18 16:34:47 weka.experiment.DatabaseUtils initialize
 WARNING: Trying to add database driver (JDBC): jdbc.idbDriver - Warning, not in CLASSPATH?
-2021-04-11 12:27:34 weka.gui.beans.BeansProperties loadProperties
+2021-04-18 16:34:47 weka.gui.beans.BeansProperties loadProperties
 INFO: [KnowledgeFlow] Loading properties and plugins...
-2021-04-11 12:27:34 weka.gui.beans.KnowledgeFlowApp init
+2021-04-18 16:34:47 weka.gui.beans.KnowledgeFlowApp init
 INFO: [KnowledgeFlow] Initializing KF...

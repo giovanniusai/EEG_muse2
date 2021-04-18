@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import datetime
+from numpy import fft, diff, sign, abs
 # from datetime import datetime
 """
 In this module there are the methods for the pre-processing to be implemented before the feature extraction phase
@@ -294,15 +295,66 @@ def acc_gyro_features(answer):
                 """
 
     acc_gyro_cols = ['Accelerometer_X', 'Accelerometer_Y', 'Accelerometer_Z', 'Gyro_X', 'Gyro_Y', 'Gyro_Z']
+    mean_cols = ['Accelerometer_Y', 'Accelerometer_Z']
+    var_cols = ['Accelerometer_X', 'Accelerometer_Y', 'Accelerometer_Z', 'Gyro_Y']
+    skew_cols = ['Gyro_Y', 'Gyro_Z']
+    max_cols = ['Accelerometer_Y', 'Gyro_X', 'Gyro_Y', 'Gyro_Z']
+    min_med_cols = ['Accelerometer_Y', 'Accelerometer_Z', 'Gyro_X', 'Gyro_Y', 'Gyro_Z']
+    std_cols = ['Accelerometer_X', 'Accelerometer_Y', 'Accelerometer_Z', 'Gyro_Y']
+    peaks_list = list()
+    freq_list = list()
 
-    acc_gyro_mean = list(answer[acc_gyro_cols].mean())
-    acc_gyro_var = list(answer[acc_gyro_cols].var())
-    acc_gyro_skew = list(answer[acc_gyro_cols].skew())
+    acc_gyro_mean = list(answer[mean_cols].mean())
+    acc_gyro_var = list(answer[var_cols].var())
+    acc_gyro_skew = list(answer[skew_cols].skew())
     acc_gyro_kurt = list(answer[acc_gyro_cols].kurt())
-    acc_gyro_max = answer[acc_gyro_cols].max()
-    acc_gyro_min = answer[acc_gyro_cols].min()
-    acc_gyro_diff = list(acc_gyro_max - acc_gyro_min)
+    acc_gyro_max = answer[max_cols].max()
+    acc_gyro_max_full = answer[acc_gyro_cols].max()
+    acc_gyro_max_list = list(acc_gyro_max)
+    acc_gyro_min = answer[min_med_cols].min()
+    acc_gyro_min_full = answer[acc_gyro_cols].min()
+    acc_gyro_min_list = list(acc_gyro_min)
+    acc_gyro_diff = list(acc_gyro_max_full - acc_gyro_min_full)
+    acc_gyro_median = list(answer[min_med_cols].median())
+    acc_gyro_std = list(answer[std_cols].std())
+    acc_gyro_autocorr = list(answer[acc_gyro_cols].apply(lambda x: x.autocorr()))
 
-    acc_gyro_list = acc_gyro_mean + acc_gyro_var + acc_gyro_skew + acc_gyro_kurt + acc_gyro_diff
+    for col in acc_gyro_cols:
 
-    return acc_gyro_list
+        fourier = abs(fft.rfft(answer[col] - answer[col].mean(), n=2048))
+        freq = fft.rfftfreq(2048, d=1. / 256)
+        inflection = diff(sign(diff(fourier)))
+        peaks = (inflection < 0).nonzero()[0] + 1
+
+        # picchi trasformata di fourier
+        peak = fourier[peaks]
+
+        # Frequenza dei picchi della trasformata discreta di fourier
+        signal_freq = freq[peaks]
+
+        # First 5 peaks and corresponding frequencies
+        mypeak = list(peak[:5])
+        mysignalfreq = list(signal_freq[:5])
+
+        if len(mypeak) < 5:
+            mypeak = [0, 0, 0, 0, 0]
+
+        if len(mysignalfreq) < 5:
+            mysignalfreq = [0, 0, 0, 0, 0]
+
+        peaks_list = peaks_list + mypeak
+        freq_list = freq_list + mysignalfreq
+
+    # step > 0.05
+    # peaks_list = peaks_list[:11] + [peaks_list[14]] + peaks_list[16:20] + peaks_list[21:25] + peaks_list[27:30]
+
+    # step > 0.1
+    peaks_list = peaks_list[7:10] + [peaks_list[19]] + [peaks_list[24]] + [peaks_list[29]]
+
+    acc_gyro_list = acc_gyro_mean + acc_gyro_var + acc_gyro_skew + acc_gyro_kurt + acc_gyro_max_list + \
+                    acc_gyro_min_list + acc_gyro_diff + acc_gyro_median + acc_gyro_std + acc_gyro_autocorr + peaks_list\
+                    + freq_list
+
+    fourier_list = peaks_list + freq_list
+
+    return fourier_list

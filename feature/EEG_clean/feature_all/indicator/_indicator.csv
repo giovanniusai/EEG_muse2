@@ -1,0 +1,4577 @@
+indicator,image
+attentive,0
+attentive,1
+attentive,2
+attentive,3
+attentive,4
+attentive,5
+error-no over time,6
+attentive,7
+attentive,8
+attentive,9
+attentive,10
+attentive,11
+over time,12
+attentive,13
+attentive,14
+attentive,15
+attentive,16
+attentive,17
+attentive,18
+attentive,19
+attentive,20
+attentive,21
+attentive,22
+attentive,23
+attentive,24
+over time,25
+attentive,26
+over time,27
+attentive,28
+attentive,29
+attentive,31
+attentive,32
+attentive,33
+attentive,35
+attentive,36
+attentive,37
+attentive,38
+attentive,39
+attentive,40
+attentive,41
+error-no over time,42
+attentive,43
+attentive,44
+attentive,45
+attentive,46
+attentive,47
+attentive,48
+attentive,49
+attentive,50
+over time,51
+attentive,52
+attentive,53
+attentive,54
+attentive,55
+attentive,56
+attentive,57
+attentive,58
+attentive,60
+attentive,62
+attentive,63
+attentive,64
+attentive,65
+attentive,66
+attentive,70
+attentive,71
+attentive,72
+attentive,73
+attentive,74
+attentive,75
+attentive,76
+attentive,77
+attentive,78
+attentive,79
+error-no over time,80
+attentive,81
+attentive,82
+attentive,83
+attentive,84
+attentive,85
+attentive,87
+attentive,88
+attentive,89
+attentive,90
+attentive,91
+attentive,92
+attentive,93
+attentive,95
+attentive,96
+attentive,98
+attentive,99
+attentive,100
+attentive,101
+attentive,103
+over time,104
+attentive,105
+attentive,106
+over time,107
+attentive,108
+attentive,109
+attentive,110
+attentive,111
+attentive,112
+attentive,113
+attentive,114
+attentive,115
+attentive,116
+over time,117
+attentive,118
+attentive,119
+over time,120
+attentive,121
+attentive,122
+attentive,124
+attentive,125
+attentive,126
+attentive,127
+attentive,128
+attentive,129
+attentive,130
+over time,131
+attentive,132
+attentive,133
+attentive,134
+attentive,135
+attentive,136
+attentive,137
+attentive,138
+attentive,139
+attentive,141
+attentive,142
+attentive,143
+attentive,144
+attentive,145
+attentive,146
+over time,147
+over time,148
+attentive,149
+attentive,150
+attentive,151
+attentive,152
+attentive,153
+attentive,154
+attentive,155
+attentive,156
+attentive,157
+over time,158
+over time,159
+attentive,160
+attentive,161
+attentive,162
+attentive,163
+attentive,164
+over time,165
+attentive,166
+attentive,167
+attentive,168
+attentive,169
+attentive,170
+attentive,171
+attentive,172
+attentive,173
+attentive,174
+attentive,175
+attentive,176
+attentive,177
+attentive,178
+attentive,179
+attentive,180
+attentive,182
+attentive,183
+attentive,184
+attentive,185
+attentive,186
+attentive,187
+over time,188
+attentive,189
+attentive,190
+attentive,191
+attentive,192
+over time,193
+attentive,194
+attentive,195
+over time,196
+over time,197
+attentive,198
+attentive,199
+attentive,200
+attentive,201
+attentive,202
+attentive,203
+attentive,204
+attentive,205
+attentive,206
+attentive,207
+attentive,208
+over time,211
+attentive,212
+attentive,217
+over time,218
+over time,219
+attentive,220
+over time,221
+attentive,222
+attentive,223
+attentive,224
+attentive,225
+attentive,226
+attentive,227
+attentive,228
+attentive,229
+error-over time,230
+attentive,231
+attentive,232
+attentive,233
+attentive,234
+attentive,235
+attentive,236
+attentive,237
+attentive,238
+attentive,239
+attentive,240
+attentive,241
+attentive,242
+attentive,243
+attentive,244
+attentive,245
+over time,246
+over time,247
+over time,248
+attentive,249
+attentive,250
+attentive,251
+attentive,252
+attentive,253
+attentive,254
+attentive,255
+attentive,256
+attentive,257
+attentive,258
+attentive,259
+attentive,260
+attentive,261
+over time,262
+attentive,263
+attentive,264
+attentive,266
+attentive,267
+attentive,268
+attentive,269
+over time,270
+attentive,271
+attentive,272
+attentive,273
+attentive,274
+attentive,275
+attentive,276
+attentive,277
+attentive,278
+attentive,279
+attentive,280
+attentive,281
+attentive,282
+attentive,283
+over time,285
+attentive,286
+attentive,289
+attentive,291
+attentive,292
+attentive,293
+over time,294
+attentive,295
+over time,296
+attentive,297
+attentive,298
+attentive,299
+attentive,300
+attentive,301
+over time,302
+attentive,303
+attentive,304
+attentive,305
+attentive,306
+attentive,307
+over time,308
+attentive,309
+attentive,310
+attentive,311
+attentive,312
+attentive,313
+attentive,314
+over time,315
+over time,316
+attentive,317
+attentive,318
+over time,320
+attentive,321
+error-over time,322
+over time,323
+over time,324
+over time,325
+over time,326
+attentive,327
+attentive,328
+attentive,329
+over time,330
+attentive,331
+over time,332
+attentive,333
+over time,334
+attentive,335
+attentive,336
+attentive,337
+over time,338
+attentive,339
+error-no over time,340
+attentive,341
+attentive,342
+attentive,343
+attentive,344
+over time,345
+attentive,347
+over time,348
+attentive,349
+attentive,350
+over time,351
+attentive,352
+over time,353
+attentive,354
+over time,356
+over time,357
+attentive,358
+attentive,359
+over time,360
+attentive,361
+attentive,362
+attentive,363
+attentive,364
+attentive,365
+attentive,366
+attentive,367
+over time,368
+attentive,369
+over time,371
+over time,372
+attentive,373
+attentive,374
+attentive,375
+attentive,376
+attentive,377
+attentive,378
+attentive,379
+attentive,380
+attentive,382
+attentive,383
+over time,384
+attentive,385
+attentive,386
+attentive,387
+over time,390
+attentive,391
+over time,392
+attentive,395
+over time,396
+attentive,397
+attentive,398
+error-no over time,400
+over time,401
+over time,402
+attentive,403
+over time,404
+attentive,405
+over time,406
+attentive,407
+attentive,408
+attentive,409
+attentive,410
+attentive,411
+error-no over time,412
+attentive,413
+attentive,414
+attentive,415
+attentive,416
+attentive,417
+attentive,418
+over time,419
+attentive,420
+attentive,421
+attentive,422
+attentive,423
+over time,425
+attentive,426
+attentive,427
+over time,428
+attentive,429
+attentive,431
+attentive,432
+attentive,433
+attentive,434
+error-no over time,435
+attentive,437
+over time,438
+attentive,439
+attentive,440
+over time,441
+attentive,442
+attentive,443
+attentive,445
+attentive,446
+attentive,447
+attentive,448
+attentive,450
+attentive,451
+over time,452
+attentive,453
+attentive,455
+attentive,456
+over time,457
+attentive,458
+attentive,461
+attentive,462
+attentive,463
+attentive,465
+over time,467
+attentive,468
+attentive,469
+attentive,470
+attentive,471
+attentive,472
+attentive,473
+attentive,474
+attentive,475
+attentive,476
+attentive,477
+attentive,478
+attentive,479
+over time,480
+attentive,481
+over time,482
+attentive,483
+attentive,484
+over time,485
+attentive,486
+over time,487
+attentive,488
+over time,489
+attentive,490
+attentive,491
+attentive,492
+attentive,493
+attentive,494
+over time,495
+attentive,496
+attentive,497
+attentive,498
+attentive,499
+attentive,500
+attentive,501
+attentive,502
+attentive,503
+over time,504
+attentive,505
+error-no over time,506
+attentive,510
+attentive,511
+attentive,512
+attentive,513
+attentive,514
+attentive,515
+over time,516
+over time,517
+attentive,518
+attentive,519
+attentive,520
+over time,521
+attentive,522
+attentive,523
+attentive,524
+attentive,525
+attentive,526
+attentive,527
+attentive,529
+attentive,530
+attentive,531
+attentive,532
+attentive,533
+attentive,534
+attentive,535
+attentive,536
+attentive,537
+over time,538
+error-over time,539
+attentive,540
+attentive,541
+over time,542
+attentive,543
+attentive,544
+attentive,545
+attentive,546
+attentive,547
+attentive,548
+attentive,549
+attentive,550
+over time,551
+over time,552
+attentive,553
+attentive,554
+attentive,555
+attentive,556
+attentive,557
+over time,558
+attentive,559
+attentive,560
+over time,561
+attentive,562
+attentive,563
+over time,564
+attentive,565
+over time,566
+attentive,567
+over time,568
+attentive,569
+attentive,571
+over time,572
+attentive,573
+attentive,574
+attentive,575
+over time,576
+attentive,577
+over time,579
+attentive,581
+attentive,582
+over time,583
+attentive,584
+attentive,585
+over time,588
+attentive,589
+attentive,591
+error-over time,592
+over time,593
+over time,594
+attentive,595
+attentive,596
+attentive,597
+over time,598
+error-over time,599
+attentive,601
+attentive,602
+over time,603
+attentive,604
+over time,605
+over time,606
+over time,607
+attentive,608
+attentive,609
+over time,610
+attentive,611
+attentive,612
+over time,613
+attentive,614
+attentive,615
+attentive,616
+attentive,617
+attentive,618
+attentive,619
+over time,620
+attentive,621
+over time,622
+attentive,623
+attentive,625
+attentive,626
+over time,627
+attentive,629
+attentive,630
+attentive,631
+attentive,632
+attentive,633
+attentive,636
+attentive,637
+over time,638
+attentive,639
+attentive,640
+attentive,641
+attentive,642
+attentive,643
+attentive,644
+attentive,645
+attentive,646
+attentive,647
+attentive,648
+attentive,649
+attentive,651
+attentive,652
+attentive,653
+attentive,654
+attentive,655
+attentive,656
+attentive,657
+attentive,658
+attentive,659
+attentive,660
+attentive,661
+attentive,662
+over time,663
+attentive,664
+attentive,665
+over time,666
+attentive,667
+attentive,668
+attentive,669
+over time,671
+attentive,672
+over time,673
+over time,674
+attentive,675
+over time,676
+attentive,677
+attentive,678
+attentive,679
+over time,680
+attentive,681
+attentive,682
+attentive,683
+over time,684
+attentive,685
+attentive,686
+attentive,687
+attentive,688
+attentive,689
+attentive,690
+attentive,691
+attentive,692
+attentive,693
+attentive,694
+attentive,695
+attentive,696
+attentive,697
+attentive,698
+attentive,699
+attentive,700
+attentive,701
+error-no over time,702
+error-no over time,703
+over time,704
+attentive,705
+attentive,706
+attentive,707
+attentive,708
+attentive,709
+attentive,710
+attentive,711
+attentive,712
+attentive,713
+attentive,714
+attentive,715
+over time,716
+over time,717
+attentive,718
+over time,719
+over time,720
+attentive,721
+error-no over time,722
+over time,723
+attentive,724
+attentive,725
+attentive,726
+attentive,727
+attentive,728
+attentive,729
+attentive,730
+attentive,731
+attentive,732
+attentive,733
+attentive,734
+attentive,735
+attentive,736
+attentive,737
+over time,738
+over time,739
+attentive,740
+attentive,741
+attentive,742
+attentive,743
+attentive,744
+over time,745
+over time,746
+attentive,747
+attentive,748
+attentive,749
+attentive,750
+attentive,751
+over time,752
+attentive,753
+over time,754
+over time,755
+attentive,756
+attentive,757
+attentive,758
+attentive,759
+attentive,760
+attentive,761
+over time,762
+attentive,763
+attentive,764
+attentive,765
+over time,766
+attentive,767
+over time,768
+over time,769
+attentive,770
+over time,771
+attentive,772
+attentive,773
+attentive,774
+over time,775
+over time,776
+over time,777
+attentive,778
+attentive,779
+attentive,780
+attentive,781
+error-no over time,782
+over time,783
+attentive,784
+attentive,785
+error-no over time,787
+attentive,788
+attentive,789
+attentive,790
+attentive,791
+attentive,792
+attentive,793
+attentive,794
+attentive,795
+over time,796
+attentive,797
+over time,798
+attentive,799
+over time,800
+attentive,801
+attentive,802
+attentive,803
+attentive,806
+over time,807
+attentive,808
+attentive,809
+over time,810
+attentive,811
+attentive,812
+attentive,813
+attentive,814
+attentive,815
+attentive,816
+attentive,817
+attentive,818
+over time,819
+over time,820
+over time,821
+attentive,822
+over time,823
+attentive,824
+attentive,825
+attentive,826
+attentive,827
+attentive,828
+attentive,829
+over time,830
+over time,831
+error-over time,832
+attentive,834
+attentive,835
+attentive,836
+attentive,837
+attentive,838
+attentive,839
+attentive,840
+attentive,841
+attentive,842
+attentive,843
+attentive,844
+over time,845
+attentive,846
+attentive,847
+over time,848
+attentive,849
+attentive,851
+attentive,852
+attentive,853
+attentive,854
+over time,855
+attentive,856
+attentive,857
+attentive,858
+attentive,859
+attentive,860
+attentive,861
+over time,862
+attentive,863
+over time,864
+over time,865
+over time,866
+attentive,867
+error-no over time,868
+attentive,869
+attentive,870
+over time,871
+attentive,872
+attentive,873
+attentive,874
+attentive,875
+attentive,876
+attentive,877
+over time,878
+over time,879
+attentive,881
+attentive,882
+over time,883
+attentive,884
+attentive,885
+attentive,886
+attentive,887
+over time,888
+attentive,890
+over time,891
+attentive,892
+attentive,893
+attentive,894
+attentive,895
+attentive,896
+attentive,897
+over time,898
+attentive,899
+over time,900
+attentive,901
+attentive,902
+attentive,903
+attentive,905
+attentive,906
+attentive,907
+attentive,908
+attentive,909
+attentive,910
+attentive,911
+attentive,912
+attentive,913
+over time,914
+attentive,915
+attentive,916
+attentive,917
+attentive,918
+attentive,919
+attentive,920
+attentive,921
+attentive,922
+attentive,923
+attentive,924
+attentive,925
+attentive,926
+attentive,928
+attentive,929
+attentive,930
+attentive,931
+attentive,932
+attentive,933
+attentive,935
+attentive,936
+attentive,937
+attentive,938
+attentive,939
+attentive,940
+attentive,941
+attentive,942
+attentive,943
+attentive,944
+error-no over time,945
+error-no over time,946
+over time,947
+attentive,948
+attentive,949
+over time,950
+attentive,951
+attentive,952
+attentive,953
+over time,954
+attentive,956
+attentive,957
+attentive,958
+over time,959
+attentive,960
+attentive,961
+attentive,962
+error-no over time,963
+attentive,964
+attentive,965
+attentive,966
+attentive,967
+attentive,968
+attentive,970
+attentive,971
+attentive,972
+attentive,973
+attentive,974
+attentive,975
+attentive,977
+attentive,978
+attentive,979
+attentive,980
+attentive,981
+attentive,982
+attentive,983
+attentive,984
+attentive,985
+attentive,986
+attentive,987
+attentive,988
+attentive,989
+attentive,990
+error-no over time,991
+over time,993
+attentive,994
+attentive,995
+attentive,0
+error-no over time,2
+error-no over time,3
+over time,4
+attentive,5
+over time,6
+over time,7
+attentive,8
+attentive,9
+over time,11
+attentive,12
+error-over time,13
+attentive,14
+over time,15
+attentive,16
+over time,17
+over time,18
+over time,19
+attentive,20
+attentive,21
+attentive,22
+attentive,23
+attentive,24
+attentive,25
+attentive,26
+attentive,27
+attentive,28
+over time,29
+attentive,30
+attentive,31
+attentive,32
+attentive,33
+attentive,34
+attentive,35
+attentive,36
+error-no over time,37
+error-no over time,38
+error-no over time,39
+over time,40
+attentive,41
+attentive,42
+attentive,43
+error-no over time,44
+attentive,45
+over time,46
+attentive,47
+attentive,48
+attentive,49
+attentive,50
+attentive,51
+attentive,52
+attentive,53
+error-over time,54
+attentive,55
+attentive,56
+error-no over time,57
+over time,59
+over time,60
+attentive,61
+attentive,62
+attentive,63
+attentive,64
+attentive,65
+error-over time,66
+attentive,67
+attentive,68
+attentive,69
+over time,70
+attentive,72
+attentive,73
+attentive,74
+attentive,75
+error-over time,76
+attentive,77
+attentive,78
+attentive,79
+attentive,80
+attentive,81
+attentive,82
+over time,84
+attentive,85
+attentive,86
+attentive,87
+attentive,88
+attentive,89
+attentive,90
+attentive,91
+attentive,92
+attentive,93
+error-no over time,94
+attentive,95
+attentive,96
+attentive,97
+over time,98
+attentive,99
+attentive,100
+attentive,101
+attentive,102
+attentive,103
+attentive,104
+attentive,105
+attentive,106
+attentive,107
+attentive,108
+attentive,109
+error-no over time,110
+over time,111
+attentive,112
+attentive,113
+over time,114
+attentive,115
+attentive,116
+attentive,117
+attentive,118
+attentive,120
+attentive,121
+attentive,122
+attentive,123
+over time,124
+attentive,125
+over time,126
+attentive,127
+attentive,128
+over time,129
+over time,130
+attentive,131
+attentive,132
+attentive,133
+attentive,134
+attentive,135
+attentive,137
+attentive,138
+attentive,139
+attentive,140
+attentive,141
+attentive,142
+error-no over time,143
+attentive,144
+attentive,145
+attentive,146
+over time,147
+error-no over time,148
+error-no over time,149
+attentive,150
+error-no over time,151
+over time,152
+error-no over time,153
+attentive,154
+attentive,155
+error-no over time,156
+attentive,157
+attentive,158
+over time,159
+error-no over time,160
+attentive,161
+over time,162
+over time,163
+attentive,164
+over time,165
+attentive,166
+attentive,167
+attentive,168
+over time,169
+attentive,170
+attentive,172
+over time,173
+over time,174
+over time,175
+attentive,176
+attentive,177
+attentive,178
+over time,179
+attentive,180
+attentive,181
+error-no over time,182
+error-no over time,183
+attentive,184
+attentive,185
+attentive,187
+attentive,188
+over time,189
+attentive,190
+attentive,191
+attentive,192
+attentive,193
+attentive,194
+error-over time,195
+attentive,196
+attentive,197
+attentive,198
+attentive,199
+attentive,200
+attentive,201
+attentive,202
+attentive,203
+attentive,204
+attentive,205
+error-over time,206
+attentive,207
+attentive,209
+over time,210
+attentive,212
+error-no over time,213
+attentive,214
+attentive,215
+over time,216
+over time,217
+attentive,218
+attentive,219
+error-no over time,220
+attentive,221
+over time,222
+error-over time,223
+attentive,224
+attentive,225
+attentive,226
+attentive,227
+attentive,228
+attentive,229
+attentive,230
+attentive,231
+attentive,232
+attentive,233
+attentive,234
+error-no over time,235
+over time,236
+attentive,237
+attentive,238
+over time,239
+attentive,240
+attentive,241
+over time,242
+attentive,243
+over time,244
+over time,245
+over time,246
+error-over time,247
+attentive,248
+attentive,249
+attentive,250
+attentive,251
+attentive,252
+attentive,253
+attentive,254
+attentive,255
+attentive,256
+attentive,257
+error-over time,258
+attentive,259
+attentive,260
+attentive,261
+attentive,262
+attentive,263
+error-over time,264
+attentive,265
+over time,266
+attentive,267
+attentive,268
+attentive,269
+over time,270
+over time,271
+over time,272
+error-over time,274
+attentive,275
+attentive,276
+attentive,277
+attentive,278
+over time,279
+attentive,280
+attentive,282
+attentive,283
+attentive,284
+attentive,285
+attentive,286
+attentive,287
+attentive,288
+attentive,290
+attentive,291
+over time,292
+over time,293
+attentive,294
+attentive,295
+attentive,296
+over time,297
+over time,298
+attentive,299
+attentive,300
+attentive,301
+attentive,302
+attentive,303
+attentive,304
+over time,305
+over time,306
+attentive,307
+attentive,308
+over time,309
+attentive,310
+attentive,311
+attentive,312
+attentive,314
+error-no over time,315
+error-no over time,316
+attentive,317
+over time,318
+attentive,319
+attentive,320
+attentive,321
+attentive,323
+attentive,324
+attentive,325
+attentive,326
+attentive,327
+attentive,328
+attentive,329
+attentive,330
+attentive,331
+error-no over time,332
+attentive,333
+attentive,334
+attentive,335
+attentive,336
+attentive,337
+attentive,338
+error-over time,339
+attentive,340
+attentive,341
+attentive,342
+attentive,343
+over time,344
+attentive,345
+error-no over time,346
+over time,347
+attentive,348
+attentive,349
+over time,350
+error-no over time,351
+attentive,352
+attentive,353
+over time,355
+over time,356
+error-over time,357
+attentive,358
+over time,359
+over time,360
+attentive,361
+attentive,362
+attentive,363
+over time,364
+over time,365
+attentive,366
+over time,367
+attentive,368
+attentive,369
+attentive,370
+attentive,371
+attentive,372
+attentive,373
+attentive,374
+error-no over time,375
+attentive,376
+attentive,377
+over time,378
+attentive,379
+attentive,381
+attentive,382
+attentive,383
+attentive,384
+attentive,385
+attentive,386
+attentive,387
+attentive,388
+over time,389
+attentive,390
+attentive,391
+attentive,392
+attentive,393
+attentive,394
+attentive,395
+over time,396
+attentive,397
+attentive,398
+attentive,399
+over time,400
+over time,401
+over time,402
+over time,403
+attentive,404
+attentive,405
+attentive,406
+attentive,407
+attentive,408
+attentive,409
+attentive,410
+attentive,411
+error-no over time,412
+attentive,413
+attentive,415
+attentive,417
+over time,418
+attentive,420
+attentive,421
+attentive,422
+attentive,423
+error-no over time,424
+over time,425
+over time,426
+error-over time,427
+over time,428
+error-over time,429
+over time,430
+attentive,431
+attentive,432
+attentive,433
+attentive,434
+attentive,435
+attentive,436
+attentive,437
+attentive,438
+attentive,439
+attentive,440
+over time,442
+attentive,444
+attentive,445
+attentive,446
+error-no over time,447
+attentive,448
+attentive,449
+attentive,450
+attentive,451
+attentive,452
+attentive,453
+attentive,454
+attentive,455
+attentive,456
+attentive,457
+error-no over time,458
+attentive,459
+attentive,460
+attentive,461
+attentive,462
+attentive,463
+attentive,464
+attentive,465
+error-no over time,466
+attentive,468
+error-no over time,469
+attentive,470
+attentive,471
+over time,472
+attentive,473
+attentive,474
+attentive,475
+attentive,476
+attentive,477
+attentive,478
+attentive,479
+attentive,480
+attentive,481
+attentive,482
+over time,484
+attentive,485
+attentive,486
+attentive,487
+attentive,488
+attentive,490
+attentive,491
+attentive,492
+attentive,493
+attentive,494
+attentive,495
+attentive,496
+over time,498
+attentive,499
+attentive,500
+attentive,501
+attentive,502
+attentive,503
+attentive,504
+over time,505
+attentive,506
+over time,507
+attentive,508
+attentive,509
+attentive,510
+attentive,511
+attentive,512
+over time,513
+error-over time,514
+over time,515
+attentive,516
+error-no over time,517
+attentive,518
+attentive,519
+attentive,520
+attentive,522
+attentive,523
+attentive,524
+over time,525
+attentive,526
+over time,527
+error-no over time,528
+attentive,529
+error-no over time,530
+attentive,531
+attentive,532
+attentive,533
+error-over time,534
+attentive,535
+attentive,536
+attentive,537
+attentive,538
+attentive,539
+attentive,541
+attentive,542
+attentive,543
+over time,544
+over time,545
+attentive,546
+error-no over time,547
+attentive,548
+attentive,549
+over time,550
+over time,551
+over time,552
+over time,553
+error-over time,554
+attentive,555
+error-no over time,556
+attentive,557
+over time,558
+attentive,559
+attentive,560
+attentive,561
+error-over time,562
+attentive,563
+attentive,564
+attentive,565
+attentive,567
+attentive,568
+attentive,569
+attentive,571
+attentive,572
+error-no over time,573
+attentive,575
+attentive,576
+over time,577
+over time,578
+over time,579
+over time,580
+over time,581
+attentive,582
+over time,583
+attentive,584
+over time,585
+over time,586
+error-over time,587
+attentive,588
+over time,589
+over time,590
+attentive,591
+attentive,592
+attentive,593
+attentive,594
+attentive,595
+attentive,596
+attentive,597
+error-over time,598
+attentive,599
+attentive,600
+attentive,601
+over time,602
+over time,603
+over time,604
+error-no over time,605
+attentive,606
+attentive,607
+attentive,608
+attentive,610
+attentive,611
+attentive,612
+attentive,613
+attentive,614
+attentive,615
+attentive,616
+attentive,617
+attentive,618
+attentive,619
+attentive,620
+over time,621
+attentive,622
+attentive,623
+attentive,624
+attentive,625
+attentive,626
+attentive,627
+attentive,629
+attentive,630
+attentive,631
+over time,632
+attentive,633
+attentive,634
+attentive,635
+over time,636
+over time,637
+attentive,638
+attentive,639
+attentive,640
+attentive,641
+attentive,642
+over time,643
+over time,644
+attentive,645
+attentive,646
+over time,647
+attentive,648
+attentive,649
+attentive,650
+attentive,651
+attentive,652
+attentive,654
+attentive,655
+attentive,656
+attentive,657
+error-no over time,658
+attentive,659
+attentive,660
+attentive,661
+over time,662
+over time,663
+attentive,664
+attentive,665
+over time,666
+attentive,667
+over time,668
+attentive,669
+attentive,670
+over time,671
+over time,672
+attentive,673
+attentive,674
+attentive,675
+error-no over time,676
+error-no over time,677
+over time,678
+error-over time,679
+attentive,680
+error-over time,681
+error-over time,682
+attentive,683
+attentive,684
+over time,686
+over time,687
+over time,688
+attentive,689
+over time,690
+attentive,691
+over time,692
+attentive,693
+attentive,694
+error-over time,695
+attentive,696
+over time,697
+attentive,698
+attentive,699
+over time,700
+attentive,701
+attentive,702
+attentive,703
+error-no over time,704
+attentive,705
+error-over time,706
+error-no over time,707
+attentive,709
+over time,710
+attentive,711
+over time,712
+attentive,713
+over time,714
+attentive,715
+over time,716
+over time,717
+error-over time,718
+over time,719
+attentive,720
+attentive,721
+error-over time,723
+over time,724
+over time,725
+over time,726
+attentive,727
+over time,728
+over time,729
+attentive,730
+error-no over time,731
+attentive,732
+error-over time,733
+over time,734
+attentive,735
+attentive,736
+attentive,737
+over time,738
+over time,739
+attentive,740
+attentive,741
+over time,742
+over time,743
+over time,744
+error-over time,745
+over time,746
+error-over time,747
+error-over time,748
+attentive,749
+error-no over time,750
+over time,751
+over time,752
+error-over time,753
+over time,754
+attentive,755
+over time,756
+attentive,757
+over time,758
+attentive,759
+over time,760
+attentive,761
+over time,762
+attentive,763
+over time,764
+attentive,765
+over time,767
+error-over time,768
+attentive,769
+attentive,770
+attentive,771
+attentive,772
+attentive,773
+attentive,774
+over time,775
+attentive,776
+error-no over time,777
+attentive,778
+attentive,779
+error-over time,780
+attentive,781
+over time,782
+attentive,784
+over time,785
+over time,787
+over time,788
+attentive,789
+attentive,790
+over time,791
+attentive,792
+attentive,793
+attentive,794
+attentive,795
+attentive,796
+attentive,797
+over time,798
+attentive,799
+error-no over time,800
+attentive,801
+attentive,802
+over time,803
+attentive,804
+over time,805
+attentive,806
+attentive,807
+error-no over time,808
+attentive,809
+attentive,810
+attentive,811
+attentive,812
+attentive,813
+over time,814
+attentive,815
+attentive,816
+attentive,817
+attentive,818
+over time,819
+attentive,820
+over time,821
+attentive,822
+attentive,823
+attentive,824
+attentive,825
+attentive,826
+attentive,827
+attentive,828
+attentive,829
+error-no over time,830
+attentive,831
+attentive,832
+over time,833
+attentive,834
+attentive,835
+attentive,836
+attentive,837
+attentive,838
+over time,839
+attentive,840
+over time,841
+over time,842
+over time,843
+attentive,844
+error-over time,845
+over time,847
+attentive,848
+over time,849
+error-no over time,850
+attentive,851
+over time,852
+over time,853
+attentive,854
+over time,855
+attentive,856
+error-over time,857
+attentive,858
+attentive,859
+attentive,860
+attentive,861
+over time,862
+attentive,863
+attentive,864
+attentive,865
+error-no over time,866
+attentive,867
+attentive,868
+attentive,869
+attentive,870
+attentive,871
+attentive,872
+over time,873
+over time,874
+attentive,875
+over time,876
+over time,877
+attentive,878
+over time,879
+over time,880
+over time,881
+attentive,882
+attentive,883
+attentive,884
+error-no over time,885
+over time,886
+attentive,887
+attentive,888
+attentive,889
+attentive,890
+over time,891
+over time,892
+over time,893
+attentive,894
+over time,895
+attentive,896
+attentive,897
+over time,898
+attentive,899
+over time,900
+over time,902
+attentive,903
+attentive,904
+attentive,905
+attentive,906
+attentive,907
+over time,908
+attentive,909
+attentive,910
+over time,911
+attentive,912
+attentive,913
+error-over time,914
+over time,915
+attentive,916
+over time,917
+attentive,918
+attentive,919
+attentive,920
+attentive,921
+attentive,922
+over time,923
+attentive,924
+attentive,925
+attentive,926
+attentive,927
+attentive,928
+attentive,929
+attentive,930
+attentive,931
+over time,932
+over time,933
+error-no over time,935
+attentive,937
+attentive,938
+attentive,939
+attentive,940
+attentive,941
+attentive,942
+attentive,943
+error-over time,944
+over time,945
+attentive,946
+attentive,947
+over time,948
+attentive,949
+over time,950
+attentive,951
+attentive,952
+error-over time,953
+attentive,954
+attentive,955
+error-over time,956
+attentive,957
+attentive,958
+error-over time,959
+attentive,960
+attentive,961
+attentive,962
+over time,963
+attentive,964
+over time,965
+over time,966
+over time,967
+over time,968
+attentive,969
+over time,970
+over time,971
+attentive,972
+attentive,973
+attentive,974
+attentive,975
+attentive,976
+attentive,977
+attentive,978
+error-no over time,979
+attentive,980
+error-over time,982
+error-over time,983
+attentive,984
+error-over time,985
+over time,986
+attentive,987
+attentive,988
+error-no over time,989
+over time,990
+attentive,991
+attentive,992
+over time,993
+attentive,994
+attentive,995
+attentive,996
+attentive,997
+attentive,998
+attentive,999
+over time,0
+over time,1
+over time,2
+over time,3
+over time,4
+attentive,5
+over time,6
+over time,7
+attentive,8
+over time,9
+over time,10
+attentive,11
+over time,12
+over time,13
+over time,14
+over time,15
+attentive,16
+over time,17
+over time,18
+attentive,19
+over time,20
+attentive,21
+over time,22
+attentive,23
+over time,24
+attentive,25
+over time,26
+over time,27
+attentive,28
+attentive,29
+over time,30
+attentive,31
+attentive,32
+over time,33
+attentive,34
+over time,35
+attentive,36
+over time,37
+attentive,38
+over time,39
+attentive,40
+attentive,41
+attentive,42
+attentive,43
+over time,44
+over time,45
+attentive,46
+over time,47
+over time,48
+over time,49
+over time,50
+over time,51
+over time,52
+attentive,53
+attentive,54
+attentive,55
+over time,56
+attentive,57
+attentive,58
+attentive,59
+attentive,60
+over time,61
+over time,62
+over time,63
+attentive,64
+attentive,65
+over time,66
+over time,67
+attentive,68
+attentive,69
+over time,70
+over time,71
+attentive,72
+attentive,73
+over time,74
+over time,75
+attentive,76
+attentive,77
+attentive,78
+attentive,79
+over time,80
+over time,81
+over time,82
+over time,83
+attentive,84
+attentive,86
+attentive,87
+over time,89
+over time,90
+over time,91
+over time,92
+over time,93
+attentive,94
+over time,95
+attentive,96
+attentive,97
+over time,98
+over time,99
+attentive,100
+over time,101
+attentive,102
+over time,104
+over time,105
+attentive,106
+over time,107
+over time,108
+attentive,109
+attentive,110
+over time,112
+over time,113
+over time,114
+over time,115
+attentive,116
+attentive,117
+over time,118
+over time,119
+over time,120
+attentive,121
+over time,122
+error-no over time,123
+attentive,124
+attentive,125
+over time,126
+over time,127
+over time,128
+attentive,129
+over time,130
+over time,131
+attentive,132
+attentive,133
+attentive,134
+attentive,135
+over time,136
+over time,137
+over time,138
+attentive,139
+attentive,140
+attentive,142
+over time,143
+over time,145
+over time,146
+attentive,147
+over time,148
+over time,149
+attentive,150
+over time,151
+over time,152
+attentive,153
+attentive,154
+attentive,156
+attentive,157
+attentive,158
+error-over time,159
+over time,160
+over time,161
+attentive,162
+attentive,163
+over time,164
+attentive,165
+attentive,166
+over time,167
+over time,169
+attentive,170
+attentive,171
+attentive,172
+over time,173
+attentive,174
+over time,175
+attentive,176
+over time,177
+over time,178
+attentive,179
+over time,180
+over time,181
+over time,182
+attentive,183
+error-over time,184
+error-over time,185
+attentive,186
+attentive,187
+over time,188
+attentive,189
+attentive,190
+over time,191
+over time,192
+attentive,193
+over time,194
+over time,195
+attentive,196
+attentive,197
+over time,198
+over time,199
+over time,200
+over time,201
+over time,202
+over time,204
+attentive,205
+over time,206
+attentive,209
+over time,210
+error-no over time,211
+attentive,212
+attentive,213
+attentive,214
+attentive,215
+attentive,216
+attentive,219
+attentive,220
+attentive,221
+attentive,222
+over time,223
+attentive,224
+attentive,225
+attentive,226
+attentive,227
+over time,228
+attentive,230
+attentive,231
+attentive,232
+attentive,233
+attentive,234
+error-no over time,237
+over time,238
+attentive,239
+attentive,241
+attentive,242
+attentive,243
+attentive,244
+attentive,245
+over time,246
+attentive,247
+over time,248
+over time,249
+attentive,250
+attentive,251
+over time,252
+attentive,253
+attentive,254
+attentive,255
+attentive,256
+attentive,257
+error-no over time,258
+over time,259
+attentive,260
+attentive,261
+attentive,262
+attentive,263
+attentive,264
+attentive,265
+over time,266
+attentive,267
+over time,268
+over time,269
+attentive,270
+over time,271
+over time,272
+attentive,273
+attentive,274
+attentive,275
+over time,276
+attentive,277
+attentive,278
+attentive,279
+over time,280
+attentive,282
+attentive,283
+attentive,284
+attentive,285
+over time,286
+over time,287
+over time,288
+attentive,289
+over time,290
+over time,291
+attentive,292
+over time,293
+over time,294
+over time,295
+over time,296
+over time,297
+attentive,298
+attentive,299
+over time,300
+over time,301
+attentive,302
+attentive,303
+attentive,304
+attentive,305
+over time,306
+over time,307
+attentive,308
+over time,309
+attentive,310
+over time,311
+attentive,312
+attentive,313
+attentive,314
+error-no over time,315
+over time,316
+attentive,317
+attentive,318
+attentive,319
+attentive,320
+over time,321
+attentive,322
+attentive,323
+over time,324
+attentive,325
+attentive,326
+over time,327
+attentive,328
+attentive,329
+attentive,330
+over time,427
+over time,428
+attentive,429
+attentive,430
+attentive,432
+attentive,433
+attentive,434
+over time,435
+attentive,436
+attentive,438
+over time,439
+attentive,440
+over time,441
+over time,442
+over time,443
+attentive,444
+attentive,446
+attentive,447
+attentive,448
+over time,449
+attentive,450
+attentive,451
+error-no over time,452
+attentive,453
+over time,454
+attentive,455
+attentive,456
+attentive,457
+over time,458
+attentive,459
+over time,460
+attentive,461
+over time,462
+attentive,463
+attentive,464
+attentive,465
+over time,466
+over time,467
+attentive,468
+attentive,469
+over time,470
+attentive,471
+over time,473
+over time,474
+error-no over time,475
+over time,483
+attentive,484
+attentive,485
+attentive,486
+over time,487
+attentive,489
+over time,490
+attentive,491
+attentive,492
+attentive,493
+attentive,494
+attentive,495
+attentive,496
+attentive,497
+attentive,498
+attentive,499
+over time,500
+attentive,501
+attentive,502
+over time,503
+attentive,505
+attentive,506
+attentive,507
+attentive,508
+attentive,509
+over time,511
+attentive,512
+attentive,513
+attentive,514
+over time,515
+attentive,516
+over time,517
+over time,518
+attentive,519
+error-no over time,520
+attentive,521
+attentive,522
+attentive,523
+attentive,524
+over time,525
+attentive,526
+attentive,527
+attentive,528
+attentive,529
+attentive,530
+attentive,531
+over time,532
+attentive,533
+attentive,534
+attentive,535
+attentive,536
+attentive,537
+attentive,538
+attentive,539
+attentive,540
+error-over time,541
+over time,542
+over time,543
+attentive,544
+over time,545
+attentive,546
+over time,547
+attentive,548
+attentive,549
+attentive,550
+attentive,551
+attentive,552
+over time,553
+attentive,554
+attentive,555
+attentive,556
+attentive,557
+attentive,558
+over time,559
+attentive,560
+attentive,561
+error-over time,562
+attentive,563
+attentive,564
+attentive,565
+attentive,566
+over time,567
+over time,568
+attentive,569
+attentive,570
+attentive,571
+attentive,572
+attentive,573
+attentive,574
+over time,575
+attentive,576
+over time,577
+over time,578
+attentive,579
+over time,580
+over time,581
+over time,582
+attentive,583
+over time,584
+over time,585
+over time,588
+attentive,589
+attentive,590
+attentive,592
+attentive,593
+attentive,594
+attentive,595
+over time,596
+over time,597
+over time,598
+attentive,599
+attentive,600
+attentive,601
+over time,602
+over time,603
+attentive,604
+attentive,605
+over time,606
+attentive,607
+attentive,608
+attentive,609
+attentive,610
+attentive,611
+attentive,612
+attentive,613
+over time,614
+over time,615
+attentive,617
+over time,618
+attentive,619
+over time,620
+attentive,621
+over time,623
+attentive,624
+attentive,625
+over time,626
+attentive,627
+error-no over time,628
+attentive,629
+over time,630
+attentive,631
+attentive,632
+attentive,633
+attentive,634
+over time,635
+over time,636
+attentive,637
+over time,638
+attentive,639
+attentive,640
+attentive,641
+over time,642
+attentive,643
+attentive,644
+attentive,645
+error-no over time,646
+over time,647
+attentive,648
+attentive,649
+attentive,650
+attentive,652
+attentive,653
+attentive,654
+attentive,655
+error-no over time,656
+attentive,657
+attentive,658
+attentive,659
+attentive,660
+attentive,661
+over time,662
+attentive,663
+over time,664
+attentive,665
+attentive,666
+attentive,667
+attentive,668
+over time,669
+attentive,670
+attentive,671
+attentive,672
+over time,673
+attentive,674
+attentive,675
+attentive,676
+attentive,677
+over time,678
+attentive,679
+attentive,680
+over time,681
+attentive,682
+error-over time,683
+attentive,684
+attentive,685
+attentive,686
+over time,687
+attentive,688
+attentive,689
+attentive,691
+attentive,692
+attentive,693
+attentive,694
+attentive,695
+over time,696
+attentive,697
+attentive,698
+attentive,699
+over time,700
+attentive,701
+over time,702
+attentive,703
+attentive,704
+attentive,705
+attentive,706
+attentive,707
+attentive,708
+attentive,709
+attentive,710
+attentive,711
+attentive,712
+attentive,713
+over time,715
+attentive,716
+over time,717
+attentive,718
+attentive,719
+attentive,720
+attentive,721
+attentive,722
+attentive,723
+over time,724
+attentive,725
+attentive,726
+attentive,727
+over time,728
+attentive,729
+attentive,730
+attentive,731
+attentive,732
+over time,733
+attentive,734
+attentive,735
+over time,736
+attentive,738
+attentive,739
+attentive,740
+attentive,741
+attentive,742
+attentive,743
+attentive,744
+over time,745
+attentive,746
+attentive,747
+over time,748
+over time,749
+attentive,750
+attentive,751
+over time,752
+attentive,753
+over time,754
+over time,755
+attentive,756
+attentive,757
+over time,758
+attentive,759
+attentive,760
+over time,761
+attentive,762
+over time,763
+attentive,764
+over time,765
+over time,766
+attentive,767
+over time,768
+attentive,769
+over time,770
+attentive,772
+over time,773
+attentive,774
+attentive,777
+error-no over time,778
+attentive,779
+attentive,780
+attentive,781
+over time,782
+attentive,783
+attentive,784
+over time,786
+attentive,787
+over time,788
+attentive,790
+over time,791
+attentive,792
+attentive,793
+attentive,794
+attentive,795
+over time,796
+attentive,798
+over time,799
+attentive,800
+attentive,801
+over time,802
+attentive,803
+attentive,806
+over time,807
+attentive,808
+error-no over time,809
+attentive,812
+over time,813
+over time,815
+over time,816
+over time,817
+attentive,818
+attentive,819
+attentive,820
+attentive,821
+attentive,822
+attentive,823
+over time,824
+attentive,825
+attentive,826
+over time,827
+attentive,828
+attentive,829
+over time,830
+attentive,831
+attentive,832
+attentive,833
+over time,834
+over time,835
+attentive,836
+attentive,837
+attentive,838
+attentive,839
+attentive,840
+over time,841
+attentive,842
+attentive,843
+attentive,844
+attentive,845
+attentive,846
+attentive,847
+attentive,848
+attentive,849
+attentive,850
+over time,851
+attentive,852
+over time,853
+attentive,854
+attentive,855
+attentive,856
+attentive,857
+attentive,858
+over time,859
+attentive,860
+over time,861
+attentive,862
+attentive,863
+attentive,864
+error-no over time,865
+over time,866
+attentive,867
+attentive,868
+over time,869
+attentive,870
+attentive,871
+attentive,872
+over time,873
+attentive,874
+attentive,875
+attentive,876
+attentive,877
+over time,878
+attentive,879
+attentive,880
+over time,881
+attentive,882
+attentive,883
+attentive,884
+attentive,885
+over time,886
+over time,887
+attentive,888
+over time,889
+attentive,890
+attentive,891
+attentive,892
+error-no over time,893
+attentive,894
+attentive,895
+attentive,896
+attentive,897
+attentive,898
+over time,899
+over time,900
+attentive,901
+attentive,902
+over time,903
+attentive,904
+attentive,905
+attentive,906
+attentive,907
+over time,908
+attentive,909
+attentive,910
+attentive,911
+attentive,912
+over time,913
+attentive,914
+over time,915
+attentive,916
+over time,917
+attentive,918
+attentive,919
+attentive,920
+attentive,921
+attentive,922
+over time,923
+attentive,924
+over time,925
+attentive,926
+attentive,927
+attentive,928
+attentive,929
+attentive,930
+attentive,931
+attentive,932
+attentive,933
+error-no over time,934
+over time,935
+attentive,936
+over time,937
+over time,938
+over time,940
+over time,941
+over time,942
+over time,943
+attentive,944
+attentive,945
+attentive,946
+over time,947
+attentive,948
+attentive,949
+attentive,950
+attentive,951
+over time,952
+attentive,953
+attentive,954
+over time,955
+attentive,956
+attentive,957
+attentive,958
+attentive,959
+attentive,960
+over time,961
+attentive,0
+attentive,1
+attentive,3
+attentive,4
+attentive,5
+over time,6
+attentive,7
+attentive,8
+attentive,9
+attentive,10
+attentive,11
+attentive,12
+attentive,13
+attentive,14
+error-no over time,15
+attentive,16
+attentive,17
+attentive,18
+attentive,20
+attentive,21
+attentive,22
+attentive,23
+attentive,24
+attentive,25
+attentive,26
+attentive,27
+attentive,28
+attentive,29
+attentive,30
+attentive,32
+attentive,33
+attentive,34
+attentive,35
+attentive,36
+attentive,37
+attentive,38
+attentive,39
+attentive,40
+attentive,41
+attentive,43
+attentive,44
+over time,45
+attentive,46
+attentive,47
+attentive,48
+attentive,49
+attentive,51
+over time,52
+over time,53
+attentive,54
+over time,55
+over time,56
+over time,57
+attentive,58
+over time,59
+over time,60
+error-no over time,61
+over time,62
+over time,63
+attentive,64
+attentive,65
+over time,66
+attentive,67
+attentive,68
+attentive,69
+attentive,70
+error-over time,71
+attentive,72
+attentive,73
+attentive,74
+attentive,75
+over time,76
+attentive,77
+attentive,78
+attentive,79
+attentive,80
+attentive,81
+attentive,82
+attentive,83
+attentive,84
+attentive,85
+error-no over time,86
+attentive,87
+over time,88
+attentive,89
+attentive,90
+attentive,91
+error-over time,92
+attentive,93
+error-no over time,94
+attentive,95
+attentive,96
+over time,97
+attentive,98
+attentive,99
+attentive,100
+attentive,101
+attentive,102
+attentive,103
+attentive,104
+attentive,105
+attentive,106
+attentive,107
+attentive,108
+attentive,109
+attentive,110
+attentive,111
+attentive,112
+attentive,113
+attentive,114
+attentive,115
+attentive,116
+attentive,117
+attentive,118
+attentive,119
+over time,120
+attentive,121
+attentive,122
+attentive,123
+attentive,124
+attentive,125
+attentive,126
+error-no over time,127
+attentive,128
+attentive,130
+attentive,131
+attentive,132
+over time,133
+attentive,134
+over time,135
+over time,136
+attentive,137
+attentive,138
+attentive,139
+attentive,140
+over time,141
+attentive,142
+attentive,143
+attentive,144
+over time,145
+attentive,146
+attentive,147
+attentive,148
+attentive,149
+attentive,150
+over time,151
+error-over time,152
+over time,153
+error-no over time,155
+over time,156
+attentive,157
+attentive,158
+over time,159
+attentive,160
+attentive,161
+attentive,162
+attentive,163
+attentive,164
+over time,165
+over time,166
+attentive,167
+attentive,168
+over time,169
+attentive,170
+attentive,171
+attentive,172
+attentive,173
+attentive,175
+attentive,176
+attentive,177
+attentive,178
+attentive,179
+attentive,180
+over time,181
+attentive,182
+attentive,183
+attentive,184
+attentive,185
+attentive,187
+attentive,188
+attentive,189
+attentive,190
+attentive,191
+attentive,192
+attentive,193
+attentive,194
+attentive,195
+over time,196
+attentive,197
+attentive,198
+over time,199
+attentive,200
+attentive,201
+attentive,202
+attentive,203
+attentive,204
+over time,205
+attentive,206
+attentive,207
+attentive,208
+attentive,209
+attentive,210
+attentive,211
+attentive,212
+attentive,213
+over time,214
+over time,215
+attentive,216
+attentive,217
+attentive,218
+attentive,219
+attentive,220
+over time,221
+attentive,222
+attentive,223
+attentive,224
+attentive,225
+attentive,226
+attentive,227
+over time,228
+attentive,229
+over time,230
+attentive,231
+attentive,232
+attentive,233
+attentive,234
+over time,236
+attentive,238
+attentive,239
+attentive,240
+over time,241
+attentive,242
+attentive,243
+attentive,244
+attentive,245
+attentive,246
+attentive,247
+attentive,249
+attentive,250
+attentive,251
+attentive,252
+attentive,253
+attentive,254
+over time,255
+over time,256
+over time,257
+attentive,258
+attentive,259
+attentive,260
+attentive,261
+attentive,262
+over time,263
+attentive,264
+attentive,265
+attentive,266
+over time,267
+attentive,268
+attentive,270
+over time,271
+attentive,272
+over time,273
+attentive,274
+over time,275
+over time,276
+attentive,277
+attentive,278
+attentive,279
+attentive,280
+over time,281
+attentive,282
+over time,283
+over time,284
+over time,285
+attentive,286
+attentive,287
+attentive,289
+over time,290
+attentive,291
+attentive,292
+attentive,293
+attentive,294
+attentive,295
+attentive,296
+attentive,297
+attentive,298
+attentive,299
+attentive,300
+attentive,301
+attentive,302
+attentive,303
+attentive,304
+over time,305
+attentive,306
+attentive,307
+attentive,308
+over time,309
+attentive,310
+attentive,311
+attentive,312
+attentive,313
+attentive,314
+attentive,315
+attentive,316
+attentive,317
+attentive,318
+over time,319
+attentive,320
+attentive,321
+attentive,322
+attentive,323
+over time,324
+attentive,325
+attentive,326
+attentive,327
+attentive,328
+attentive,330
+attentive,331
+attentive,332
+attentive,333
+attentive,335
+over time,336
+attentive,337
+attentive,338
+over time,339
+attentive,340
+attentive,341
+attentive,342
+over time,343
+attentive,344
+over time,345
+attentive,346
+attentive,347
+attentive,348
+attentive,349
+attentive,350
+over time,351
+over time,352
+over time,353
+attentive,354
+attentive,355
+attentive,356
+attentive,357
+over time,358
+attentive,359
+attentive,360
+attentive,361
+attentive,362
+over time,363
+attentive,364
+attentive,365
+attentive,366
+over time,367
+attentive,368
+attentive,369
+attentive,370
+attentive,371
+attentive,372
+over time,373
+attentive,374
+attentive,375
+attentive,377
+over time,378
+over time,379
+attentive,380
+attentive,381
+attentive,382
+attentive,383
+attentive,384
+attentive,385
+over time,386
+over time,387
+attentive,388
+attentive,389
+over time,390
+attentive,391
+attentive,392
+attentive,393
+attentive,395
+attentive,396
+attentive,397
+attentive,398
+attentive,399
+attentive,400
+attentive,401
+attentive,402
+attentive,403
+attentive,404
+attentive,406
+attentive,407
+attentive,408
+attentive,409
+over time,410
+attentive,411
+attentive,412
+over time,413
+over time,414
+attentive,415
+attentive,416
+attentive,417
+over time,418
+attentive,419
+attentive,420
+over time,421
+over time,422
+attentive,423
+attentive,424
+attentive,425
+attentive,426
+attentive,427
+attentive,428
+attentive,429
+over time,430
+over time,431
+attentive,432
+attentive,433
+over time,434
+attentive,435
+over time,436
+over time,437
+attentive,438
+over time,439
+attentive,440
+over time,441
+attentive,442
+attentive,443
+over time,444
+attentive,445
+attentive,446
+attentive,447
+attentive,448
+attentive,449
+over time,450
+error-no over time,451
+attentive,452
+over time,453
+over time,454
+attentive,455
+over time,456
+attentive,457
+attentive,458
+attentive,459
+attentive,460
+over time,461
+over time,462
+attentive,463
+attentive,464
+attentive,465
+attentive,466
+attentive,467
+attentive,468
+attentive,469
+over time,470
+over time,471
+over time,472
+over time,473
+attentive,474
+attentive,475
+attentive,476
+attentive,477
+attentive,478
+attentive,479
+attentive,480
+attentive,481
+attentive,482
+attentive,483
+attentive,484
+attentive,485
+attentive,486
+attentive,488
+attentive,489
+attentive,490
+attentive,491
+attentive,492
+attentive,493
+attentive,494
+attentive,495
+attentive,496
+attentive,497
+attentive,498
+attentive,500
+attentive,501
+attentive,502
+over time,503
+attentive,504
+attentive,505
+attentive,506
+attentive,507
+over time,508
+over time,509
+attentive,510
+attentive,511
+attentive,512
+attentive,513
+over time,514
+error-no over time,515
+over time,516
+attentive,517
+attentive,518
+attentive,519
+attentive,520
+attentive,521
+over time,522
+attentive,523
+over time,524
+attentive,525
+over time,526
+attentive,527
+attentive,528
+attentive,530
+attentive,531
+attentive,532
+attentive,533
+attentive,534
+over time,535
+attentive,536
+attentive,537
+attentive,538
+attentive,539
+attentive,540
+over time,541
+attentive,542
+attentive,543
+over time,544
+attentive,545
+attentive,546
+attentive,547
+attentive,548
+attentive,549
+attentive,550
+attentive,551
+attentive,552
+attentive,553
+attentive,554
+attentive,555
+over time,556
+attentive,557
+attentive,558
+attentive,559
+attentive,560
+attentive,561
+over time,563
+attentive,565
+attentive,566
+attentive,567
+attentive,568
+attentive,569
+over time,570
+attentive,571
+over time,572
+attentive,573
+attentive,574
+over time,575
+attentive,576
+over time,577
+attentive,578
+over time,579
+attentive,580
+attentive,581
+over time,583
+attentive,585
+over time,586
+attentive,588
+attentive,589
+attentive,590
+attentive,591
+attentive,592
+attentive,593
+over time,594
+error-over time,595
+attentive,596
+attentive,597
+over time,598
+error-over time,599
+over time,600
+attentive,601
+attentive,602
+attentive,603
+attentive,604
+attentive,605
+attentive,606
+error-no over time,607
+over time,608
+attentive,609
+attentive,610
+over time,611
+attentive,612
+attentive,613
+attentive,614
+attentive,615
+attentive,616
+over time,617
+over time,618
+over time,619
+attentive,620
+attentive,621
+attentive,622
+attentive,623
+attentive,624
+over time,625
+attentive,626
+attentive,627
+attentive,628
+attentive,629
+over time,630
+attentive,631
+over time,632
+over time,633
+over time,634
+attentive,635
+attentive,636
+attentive,638
+attentive,639
+attentive,640
+attentive,641
+attentive,642
+attentive,643
+attentive,644
+attentive,645
+over time,646
+attentive,647
+attentive,649
+error-no over time,650
+attentive,651
+over time,652
+attentive,653
+attentive,654
+attentive,655
+attentive,656
+over time,657
+over time,658
+attentive,659
+attentive,660
+attentive,661
+attentive,662
+attentive,663
+attentive,664
+error-no over time,665
+error-over time,666
+attentive,667
+attentive,668
+attentive,669
+attentive,670
+attentive,671
+attentive,672
+attentive,673
+attentive,674
+over time,675
+attentive,676
+over time,677
+over time,678
+attentive,679
+attentive,680
+attentive,681
+over time,682
+attentive,683
+attentive,684
+over time,685
+over time,686
+attentive,687
+attentive,688
+attentive,689
+attentive,690
+attentive,691
+attentive,692
+attentive,693
+attentive,694
+attentive,695
+attentive,696
+attentive,698
+attentive,699
+attentive,700
+attentive,701
+attentive,702
+attentive,703
+attentive,704
+over time,705
+over time,706
+attentive,708
+attentive,709
+attentive,710
+attentive,711
+attentive,712
+over time,713
+attentive,714
+attentive,715
+over time,716
+attentive,717
+attentive,718
+attentive,719
+attentive,720
+attentive,721
+attentive,722
+attentive,723
+over time,724
+over time,725
+over time,726
+attentive,727
+attentive,728
+over time,729
+attentive,730
+attentive,731
+attentive,732
+attentive,734
+attentive,735
+over time,736
+attentive,737
+attentive,738
+attentive,739
+attentive,740
+attentive,741
+attentive,742
+attentive,743
+attentive,744
+attentive,745
+attentive,746
+attentive,747
+attentive,748
+over time,749
+over time,750
+attentive,751
+attentive,752
+attentive,753
+attentive,754
+attentive,755
+over time,756
+attentive,757
+attentive,758
+attentive,759
+attentive,760
+attentive,761
+attentive,762
+attentive,763
+attentive,764
+over time,765
+attentive,766
+attentive,767
+attentive,768
+over time,769
+attentive,770
+over time,771
+over time,772
+attentive,773
+attentive,774
+attentive,775
+attentive,776
+attentive,777
+attentive,778
+attentive,779
+attentive,780
+attentive,781
+attentive,782
+over time,783
+attentive,784
+over time,786
+over time,787
+over time,788
+over time,789
+over time,790
+over time,791
+attentive,792
+over time,794
+attentive,795
+attentive,796
+over time,797
+attentive,798
+attentive,799
+over time,800
+attentive,801
+attentive,802
+attentive,803
+attentive,804
+attentive,805
+attentive,806
+attentive,807
+attentive,809
+attentive,810
+over time,811
+attentive,812
+attentive,813
+attentive,814
+attentive,815
+attentive,816
+attentive,818
+attentive,819
+over time,820
+attentive,821
+over time,822
+attentive,823
+attentive,824
+attentive,825
+over time,826
+attentive,827
+attentive,828
+over time,829
+attentive,830
+attentive,831
+attentive,832
+over time,833
+over time,834
+attentive,835
+attentive,836
+over time,837
+attentive,838
+over time,839
+attentive,840
+attentive,841
+attentive,842
+attentive,843
+attentive,844
+attentive,845
+attentive,846
+attentive,847
+attentive,848
+over time,849
+attentive,850
+attentive,851
+attentive,852
+attentive,853
+attentive,854
+attentive,855
+attentive,856
+attentive,857
+attentive,858
+over time,859
+over time,860
+attentive,861
+attentive,862
+attentive,863
+attentive,864
+attentive,865
+attentive,866
+attentive,867
+attentive,868
+attentive,869
+over time,870
+attentive,871
+error-no over time,872
+over time,873
+attentive,874
+attentive,875
+over time,876
+over time,877
+over time,878
+attentive,879
+attentive,880
+attentive,881
+attentive,882
+attentive,883
+over time,884
+attentive,885
+attentive,886
+attentive,887
+attentive,888
+attentive,890
+attentive,891
+attentive,892
+attentive,893
+attentive,894
+attentive,895
+attentive,896
+attentive,897
+attentive,898
+attentive,899
+attentive,900
+attentive,901
+over time,902
+over time,903
+over time,904
+over time,905
+attentive,906
+over time,907
+attentive,908
+attentive,909
+attentive,910
+attentive,911
+attentive,912
+attentive,913
+over time,914
+attentive,915
+over time,916
+attentive,917
+over time,918
+attentive,919
+attentive,920
+attentive,921
+attentive,922
+attentive,923
+attentive,924
+attentive,925
+over time,926
+over time,927
+over time,928
+attentive,929
+attentive,930
+attentive,931
+attentive,932
+attentive,933
+attentive,934
+attentive,935
+over time,936
+attentive,937
+attentive,938
+attentive,939
+attentive,940
+attentive,941
+attentive,943
+attentive,944
+attentive,945
+attentive,946
+attentive,947
+attentive,948
+attentive,949
+over time,950
+attentive,951
+over time,953
+attentive,955
+attentive,956
+attentive,957
+over time,958
+attentive,959
+over time,960
+attentive,961
+attentive,963
+attentive,964
+attentive,965
+attentive,966
+attentive,967
+attentive,968
+attentive,969
+attentive,970
+attentive,971
+attentive,972
+attentive,973
+attentive,974
+attentive,975
+attentive,976
+attentive,977
+attentive,978
+attentive,979
+attentive,980
+attentive,981
+attentive,982
+attentive,983
+attentive,984
+attentive,986
+attentive,987
+attentive,988
+attentive,989
+attentive,991
+over time,992
+attentive,993
+over time,994
+error-over time,995
+attentive,996
+attentive,997
+attentive,998
+attentive,999
+attentive,1000
+attentive,1001
+over time,1002
+attentive,1003
+attentive,1004
+attentive,1005
+attentive,1006
+attentive,1007
+attentive,1008
+attentive,1010
+attentive,1011
+attentive,1012
+attentive,1013
+attentive,1014
+attentive,1015
+attentive,1016
+attentive,1017
+attentive,1018
+attentive,1019
+attentive,1020
+attentive,1021
+attentive,1022
+over time,1023
+attentive,1024
+attentive,1025
+attentive,1027
+attentive,1028
+attentive,1029
+attentive,1030
+attentive,1031
+attentive,1032
+attentive,1033
+attentive,1034
+attentive,1035
+attentive,1036
+attentive,1037
+attentive,1038
+attentive,1039
+attentive,1040
+over time,1041
+over time,1042
+attentive,1043
+attentive,1044
+over time,1045
+attentive,1046
+attentive,1047
+attentive,1048
+attentive,1049
+attentive,1050
+attentive,1051
+attentive,1052
+attentive,1053
+attentive,1054
+attentive,1055
+attentive,1056
+attentive,1057
+attentive,1058
+attentive,1059
+attentive,1060
+attentive,1061
+over time,1062
+attentive,1063
+over time,1064
+over time,1065
+attentive,1066
+attentive,1067
+over time,1068
+attentive,1069
+attentive,1071
+over time,1072
+attentive,1073
+attentive,1074
+over time,1075
+attentive,1076
+attentive,1077
+over time,1078
+attentive,1079
+attentive,1080
+attentive,1081
+error-over time,1082
+error-no over time,1083
+error-over time,1084
+error-no over time,1085
+over time,1086
+attentive,1087
+attentive,1088
+attentive,1089
+over time,1090
+attentive,1091
+attentive,1092
+over time,1093
+attentive,1094
+over time,1095
+attentive,1096
+attentive,1097
+over time,1098
+attentive,1099
+attentive,1100
+attentive,1102
+over time,1103
+error-no over time,1104
+over time,1105
+over time,1106
+attentive,1108
+attentive,1109
+over time,1110
+attentive,1112
+over time,1113
+attentive,1114
+attentive,1115
+attentive,1116
+attentive,1117
+over time,1118
+over time,1119
+attentive,1120
+attentive,1121
+over time,1122
+attentive,0
+attentive,1
+attentive,2
+attentive,3
+attentive,5
+attentive,6
+attentive,7
+attentive,8
+attentive,9
+attentive,10
+attentive,12
+attentive,14
+attentive,15
+attentive,16
+attentive,17
+attentive,18
+attentive,19
+attentive,20
+attentive,21
+attentive,22
+attentive,23
+attentive,24
+attentive,25
+attentive,26
+attentive,27
+over time,28
+attentive,29
+attentive,30
+attentive,31
+over time,32
+attentive,33
+attentive,34
+attentive,35
+attentive,36
+attentive,37
+over time,38
+attentive,39
+attentive,40
+over time,41
+attentive,42
+attentive,43
+attentive,44
+attentive,45
+attentive,46
+over time,47
+attentive,48
+over time,49
+over time,50
+attentive,51
+error-no over time,52
+over time,53
+attentive,54
+attentive,55
+attentive,56
+attentive,57
+over time,58
+attentive,59
+attentive,60
+attentive,62
+attentive,63
+attentive,64
+attentive,65
+error-no over time,66
+over time,67
+attentive,68
+attentive,69
+over time,70
+attentive,71
+over time,72
+over time,73
+over time,74
+attentive,75
+attentive,76
+over time,77
+over time,78
+attentive,79
+attentive,81
+attentive,83
+over time,84
+over time,85
+attentive,86
+attentive,87
+attentive,88
+attentive,89
+attentive,90
+attentive,91
+attentive,92
+attentive,93
+attentive,94
+over time,95
+over time,96
+attentive,97
+over time,98
+over time,99
+attentive,100
+error-no over time,101
+attentive,102
+attentive,103
+attentive,105
+error-no over time,107
+attentive,108
+attentive,109
+attentive,110
+attentive,111
+over time,112
+over time,113
+over time,114
+over time,115
+over time,116
+attentive,117
+attentive,118
+attentive,119
+over time,120
+attentive,121
+attentive,122
+over time,123
+attentive,124
+attentive,125
+attentive,126
+attentive,127
+attentive,128
+attentive,129
+over time,130
+attentive,131
+attentive,132
+attentive,133
+attentive,134
+attentive,135
+attentive,136
+attentive,137
+attentive,138
+attentive,139
+attentive,140
+attentive,141
+attentive,142
+attentive,143
+over time,146
+attentive,147
+over time,148
+over time,149
+attentive,150
+attentive,151
+attentive,152
+over time,153
+attentive,154
+attentive,155
+attentive,156
+error-no over time,158
+attentive,159
+attentive,160
+attentive,161
+over time,162
+attentive,163
+attentive,164
+attentive,165
+over time,166
+attentive,167
+attentive,168
+attentive,169
+attentive,170
+over time,171
+error-no over time,172
+attentive,173
+attentive,174
+attentive,175
+over time,176
+attentive,177
+attentive,178
+over time,179
+attentive,180
+attentive,181
+over time,182
+over time,183
+over time,184
+attentive,185
+attentive,186
+over time,187
+over time,188
+attentive,189
+over time,190
+attentive,191
+attentive,192
+attentive,193
+attentive,194
+attentive,195
+error-no over time,196
+attentive,197
+attentive,198
+attentive,199
+attentive,200
+attentive,201
+attentive,202
+attentive,203
+over time,204
+attentive,205
+attentive,206
+attentive,207
+over time,208
+attentive,209
+attentive,210
+attentive,211
+over time,212
+attentive,213
+over time,214
+attentive,215
+attentive,216
+over time,217
+attentive,218
+attentive,219
+over time,220
+attentive,221
+attentive,222
+attentive,223
+error-no over time,224
+attentive,225
+attentive,226
+attentive,227
+over time,228
+attentive,229
+attentive,230
+attentive,231
+over time,232
+attentive,233
+attentive,234
+over time,235
+attentive,237
+attentive,238
+attentive,239
+attentive,240
+attentive,241
+attentive,242
+attentive,243
+attentive,244
+attentive,245
+attentive,246
+attentive,247
+attentive,248
+attentive,249
+attentive,250
+over time,251
+attentive,252
+attentive,253
+over time,254
+attentive,255
+attentive,256
+over time,257
+attentive,258
+over time,259
+attentive,260
+attentive,261
+attentive,262
+attentive,263
+attentive,264
+over time,265
+over time,266
+attentive,267
+attentive,268
+attentive,269
+attentive,270
+attentive,271
+attentive,272
+attentive,273
+over time,274
+attentive,275
+attentive,276
+over time,277
+attentive,278
+attentive,280
+attentive,281
+attentive,282
+attentive,283
+attentive,284
+attentive,285
+over time,286
+over time,287
+attentive,288
+attentive,289
+over time,290
+attentive,291
+attentive,292
+attentive,294
+attentive,295
+attentive,296
+over time,297
+attentive,298
+attentive,299
+attentive,300
+attentive,301
+over time,302
+attentive,303
+over time,304
+attentive,305
+attentive,306
+attentive,307
+attentive,308
+error-over time,309
+over time,310
+over time,311
+attentive,312
+attentive,313
+over time,314
+over time,315
+attentive,316
+attentive,317
+over time,318
+attentive,319
+over time,320
+attentive,321
+attentive,322
+over time,323
+attentive,324
+over time,325
+attentive,326
+attentive,327
+attentive,328
+over time,329
+over time,330
+attentive,331
+attentive,332
+attentive,333
+attentive,334
+attentive,335
+over time,336
+attentive,337
+attentive,338
+attentive,339
+attentive,340
+attentive,341
+attentive,342
+attentive,343
+attentive,344
+attentive,345
+attentive,346
+attentive,347
+attentive,348
+over time,350
+attentive,351
+attentive,352
+attentive,353
+attentive,354
+over time,355
+attentive,356
+attentive,357
+over time,358
+attentive,367
+attentive,583
+over time,585
+attentive,586
+attentive,587
+attentive,588
+attentive,589
+attentive,590
+over time,591
+attentive,592
+attentive,593
+attentive,594
+attentive,595
+attentive,596
+attentive,597
+attentive,598
+attentive,599
+attentive,600
+attentive,601
+attentive,602
+attentive,603
+attentive,604
+attentive,605
+attentive,607
+attentive,608
+attentive,609
+over time,610
+attentive,611
+attentive,612
+over time,613
+over time,614
+attentive,615
+over time,616
+over time,617
+over time,618
+attentive,619
+attentive,620
+attentive,621
+attentive,622
+attentive,623
+attentive,624
+attentive,625
+attentive,626
+over time,627
+attentive,628
+attentive,629
+attentive,630
+attentive,631
+over time,632
+attentive,633
+attentive,634
+attentive,635
+over time,636
+over time,637
+over time,638
+over time,639
+attentive,640
+attentive,641
+attentive,643
+attentive,644
+attentive,646
+attentive,647
+attentive,648
+attentive,649
+attentive,650
+attentive,651
+attentive,652
+over time,653
+attentive,655
+attentive,657
+attentive,658
+attentive,659
+attentive,660
+over time,662
+over time,663
+attentive,664
+attentive,665
+attentive,666
+attentive,667
+attentive,668
+over time,669
+attentive,670
+attentive,671
+attentive,672
+error-no over time,673
+attentive,674
+over time,675
+over time,676
+attentive,677
+attentive,678
+over time,679
+attentive,680
+attentive,681
+error-no over time,682
+attentive,683
+attentive,684
+attentive,686
+attentive,687
+over time,688
+over time,689
+attentive,690
+attentive,691
+attentive,692
+attentive,693
+attentive,694
+over time,695
+over time,696
+attentive,697
+attentive,698
+attentive,699
+attentive,700
+attentive,701
+attentive,702
+attentive,703
+attentive,704
+attentive,705
+over time,706
+over time,707
+over time,708
+attentive,709
+attentive,710
+attentive,711
+attentive,712
+over time,713
+attentive,714
+attentive,715
+attentive,716
+over time,717
+attentive,718
+over time,719
+attentive,722
+attentive,723
+over time,724
+attentive,725
+attentive,726
+over time,727
+over time,729
+over time,730
+attentive,731
+attentive,732
+attentive,733
+attentive,735
+attentive,736
+over time,737
+attentive,738
+attentive,739
+attentive,740
+attentive,741
+attentive,743
+attentive,744
+attentive,745
+attentive,746
+over time,747
+over time,748
+attentive,749
+error-over time,750
+attentive,751
+attentive,752
+over time,753
+over time,754
+over time,755
+over time,757
+attentive,758
+attentive,759
+attentive,760
+over time,761
+attentive,762
+attentive,763
+attentive,764
+attentive,765
+attentive,766
+attentive,767
+attentive,768
+over time,769
+attentive,770
+attentive,771
+attentive,772
+attentive,773
+attentive,774
+attentive,775
+attentive,776
+attentive,777
+over time,778
+attentive,779
+over time,780
+attentive,781
+attentive,782
+attentive,783
+attentive,784
+over time,785
+attentive,786
+attentive,787
+attentive,788
+over time,789
+attentive,790
+attentive,791
+attentive,792
+attentive,793
+attentive,794
+attentive,795
+attentive,796
+attentive,797
+attentive,798
+over time,799
+over time,800
+attentive,801
+attentive,802
+attentive,803
+attentive,804
+attentive,805
+over time,806
+over time,807
+attentive,808
+attentive,809
+attentive,810
+attentive,811
+attentive,812
+attentive,813
+over time,814
+attentive,815
+attentive,816
+attentive,817
+attentive,818
+over time,819
+attentive,820
+attentive,821
+attentive,822
+attentive,823
+attentive,824
+attentive,825
+attentive,826
+over time,827
+over time,828
+attentive,829
+over time,830
+over time,831
+over time,832
+over time,833
+over time,834
+attentive,835
+attentive,836
+attentive,837
+attentive,838
+attentive,839
+attentive,840
+attentive,841
+attentive,842
+attentive,843
+attentive,844
+attentive,845
+attentive,847
+attentive,848
+over time,849
+attentive,850
+attentive,851
+over time,852
+attentive,854
+attentive,855
+attentive,856
+attentive,857
+attentive,858
+attentive,859
+attentive,860
+attentive,861
+over time,862
+attentive,863
+attentive,864
+attentive,865
+attentive,866
+attentive,867
+attentive,868
+attentive,870
+attentive,871
+attentive,872
+over time,873
+attentive,874
+attentive,875
+attentive,876
+over time,877
+over time,878
+attentive,879
+attentive,880
+over time,881
+attentive,882
+attentive,883
+attentive,884
+attentive,885
+attentive,886
+attentive,887
+attentive,888
+attentive,889
+attentive,890
+attentive,891
+over time,892
+attentive,893
+over time,894
+attentive,895
+error-no over time,896
+attentive,897
+over time,898
+over time,899
+attentive,900
+error-no over time,901
+attentive,902
+attentive,903
+attentive,904
+over time,905
+attentive,906
+attentive,907
+attentive,908
+attentive,909
+attentive,910
+attentive,911
+attentive,912
+attentive,913
+attentive,915
+attentive,916
+attentive,917
+over time,918
+attentive,919
+attentive,920
+attentive,921
+attentive,922
+attentive,923
+over time,925
+attentive,926
+attentive,927
+attentive,928
+attentive,929
+over time,930
+attentive,932
+attentive,933
+attentive,934
+attentive,936
+attentive,938
+attentive,939
+attentive,940
+over time,941
+over time,943
+attentive,944
+over time,945
+attentive,946
+over time,947
+attentive,948
+attentive,949
+attentive,950
+attentive,951
+attentive,953
+attentive,954
+over time,955
+attentive,956
+attentive,957
+attentive,958
+attentive,959
+attentive,960
+attentive,961
+over time,962
+over time,963
+attentive,964
+attentive,965
+over time,966
+attentive,967
+error-no over time,968
+attentive,969
+over time,970
+attentive,971
+over time,972
+attentive,973
+over time,974
+attentive,975
+attentive,976
+over time,977
+attentive,978
+attentive,979
+attentive,980
+attentive,981
+over time,982
+over time,983
+attentive,984
+attentive,985
+attentive,986
+attentive,987
+attentive,988
+over time,989
+attentive,990
+attentive,991
+attentive,992
+attentive,993
+attentive,994
+attentive,996
+attentive,997
+attentive,998
+attentive,999
+attentive,1000
+attentive,1001
+attentive,1002
+attentive,1003
+attentive,1004
+attentive,1005
+attentive,1006
+attentive,1007
+attentive,1008
+over time,1009
+attentive,1011
+attentive,1012
+attentive,1013
+attentive,1014
+attentive,1015
+over time,1016
+attentive,1017
+over time,1018
+attentive,1019
+attentive,1020
+attentive,1021
+over time,1022
+over time,1023
+attentive,1024
+attentive,1025
+attentive,1026
+over time,1027
+attentive,1028
+attentive,1029
+over time,1030
+over time,1031
+attentive,1032
+attentive,1033
+attentive,1034
+attentive,1035
+attentive,1036
+attentive,1037
+attentive,1038
+attentive,1039
+attentive,1041
+attentive,1042
+over time,1044
+attentive,1045
+attentive,1046
+attentive,1047
+over time,1049
+over time,1051
+attentive,1052
+attentive,1053
+attentive,1054
+over time,1055
+over time,1056
+attentive,1057
+attentive,1058
+attentive,1059
+attentive,1060
+over time,1061
+attentive,1063
+attentive,1064
+over time,1065
+attentive,1067
+attentive,1068
+error-no over time,1069
+attentive,1070
+attentive,1071
+attentive,1072
+attentive,1073
+attentive,1074
+attentive,1075
+over time,1077
+over time,1078
+over time,1079
+attentive,1080
+attentive,1081
+error-over time,1082
+attentive,1083
+attentive,1084
+error-over time,1085

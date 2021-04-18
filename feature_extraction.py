@@ -165,6 +165,7 @@ def generate_feature_vector(answer, class_answer, info_answer, sensors, feature_
 
         if greater_freq:
             feature_vector = greater_frequencies(fft, signal.size / 256, num_freq, drop)
+            feature_vector = feature_vector[2:5]
         else:
             feature_vector = fft
 
@@ -181,8 +182,8 @@ def generate_feature_vector(answer, class_answer, info_answer, sensors, feature_
     acc_gyro_list = acc_gyro_features(answer)
 
     if columns is not None:
-        feature_vector_final = list(list(answer[columns].mean())) + list(feature_vector_all_sensors) + acc_gyro_list
-        # feature_vector_final = acc_gyro_list
+        # feature_vector_final = list(list(answer[columns].mean())) + list(feature_vector_all_sensors) + acc_gyro_list
+        feature_vector_final = list(feature_vector_all_sensors) + acc_gyro_list
     else:
         feature_vector_final = feature_vector_all_sensors + acc_gyro_list
 
