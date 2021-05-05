@@ -43,6 +43,7 @@ def generate_feature_set(dataset, sensors, columns=None, len_sub_window=0, fs=25
     annotations = [x for _, x in dataset.groupby(['Time Check Button'])]  # set of response
 
     if len_sub_window > 1:
+        print("#####USING SUB WINDOWS#####")
         for answer in annotations:
             if verify(answer):
                 feature_set, class_answer, info_answer = divide_the_signal_in_sub_windows(len_sub_window, answer,
@@ -110,18 +111,25 @@ def divide_the_signal_in_sub_windows(len_sub_window, answer, class_answer, info_
 
     windows = [answer[len_sub_window * k:len_sub_window * (k + 1)] for k in range(int(number_windows))]
 
-    feature_vectors = list()
+    # size = len_sub_window
+    # step = int(len_sub_window/2)
+    # n_examples = len(answer)
+    # windows = []
+    # k = 0
+    # while k * step + size < n_examples:
+        # windows += [answer.iloc[k * step:k * step + size]]
+        # k += 1
 
     for index_sub in range(len(windows)):
-        feature_vectors[index_sub], class_answer, info_answer = generate_feature_vector(windows[index_sub],
+        feature_set, class_answer, info_answer = generate_feature_vector(windows[index_sub],
                                                                                         class_answer, info_answer,
                                                                                         sensors, feature_set, fs,
                                                                                         columns, window, pad,
                                                                                         greater_freq, num_freq, drop)
-        for f_vector in feature_vectors:
-            if len(feature_set) == 0:  # initialize
-                feature_set = np.empty((0, (len(f_vector))))
-            feature_set = np.vstack((feature_set, f_vector))
+
+    # if len(feature_set) == 0:  # initialize
+        # feature_set = np.empty((0, (len(feature_vectors))))
+    # feature_set = np.vstack((feature_set, feature_vectors))
 
     return feature_set, class_answer, info_answer
 
@@ -165,7 +173,12 @@ def generate_feature_vector(answer, class_answer, info_answer, sensors, feature_
 
         if greater_freq:
             feature_vector = greater_frequencies(fft, signal.size / 256, num_freq, drop)
-            feature_vector = feature_vector[2:5]
+
+            # Info gain > 0.05
+            # feature_vector = feature_vector[1:]
+
+            # feature_vector = feature_vector[2:5]
+
         else:
             feature_vector = fft
 
@@ -182,10 +195,10 @@ def generate_feature_vector(answer, class_answer, info_answer, sensors, feature_
     acc_gyro_list = acc_gyro_features(answer)
 
     if columns is not None:
-        # feature_vector_final = list(list(answer[columns].mean())) + list(feature_vector_all_sensors) + acc_gyro_list
-        feature_vector_final = list(feature_vector_all_sensors) + acc_gyro_list
+        feature_vector_final = list(list(answer[columns].mean())) + list(feature_vector_all_sensors)
+        # feature_vector_final = list(feature_vector_all_sensors) + acc_gyro_list
     else:
-        feature_vector_final = feature_vector_all_sensors + acc_gyro_list
+        feature_vector_final = feature_vector_all_sensors
 
     if len(feature_set) == 0:  # initial
         feature_set = np.empty((0, len(feature_vector_final)))

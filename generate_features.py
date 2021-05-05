@@ -72,6 +72,8 @@ def generate_feature_set_by_all_files(path_to_file, to_save, sensors, columns=No
     path_to_save_info = to_save + "/indicator/"
 
     check_folder_or_create(path_to_save_info)
+    # Modifica
+    check_folder_or_create(to_save + "/new_indicator")
 
     datasets = [pd.read_csv(path_to_file + str(el)) for el in os.listdir(path_to_file)]  # sets of file raw
 
@@ -81,6 +83,9 @@ def generate_feature_set_by_all_files(path_to_file, to_save, sensors, columns=No
     indicator_column_final = list()
     indexes = []
     features = pd.DataFrame()
+
+    # Modifica
+    new_features = pd.DataFrame()
 
     for index in range(len(datasets)):
         # Sliding windows start & end to datetime
@@ -93,8 +98,12 @@ def generate_feature_set_by_all_files(path_to_file, to_save, sensors, columns=No
                                                                            pad, greater_freq, num_freq, drop)
         if index == 0:
             features = pd.DataFrame(feature_set)
+            # Modifica
+            new_features = pd.DataFrame(feature_set)
         else:
             features = pd.concat([features, pd.DataFrame(feature_set)], ignore_index=True)
+            # Modifica
+            new_features = pd.concat([features, pd.DataFrame(feature_set)], ignore_index=True)
 
         indexes.append(len(class_column_final))
 
@@ -110,3 +119,10 @@ def generate_feature_set_by_all_files(path_to_file, to_save, sensors, columns=No
 
     np.savez('index', np.array(indexes))
     features.to_csv(to_save + 'features.csv', index=False)
+
+    # Modifica
+    new_features['indicator'] = indicator['indicator']
+    new_features['image'] = indicator['image']
+    new_features.dropna(axis=0, inplace=True)
+    new_features = new_features[['indicator', 'image']]
+    new_features.to_csv(to_save + 'new_indicator/new_indicator.csv', index=False)

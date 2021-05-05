@@ -79,6 +79,9 @@ def experiment_sequential_file(path_indices, path_features, path_folder_save_res
         evl = Evaluation(data)
         evl.test_model(cls, d_test, pout)
 
+        # print(type(d_train))
+        # print(type(d_test))
+
         d_results['index'].append(str(ind[j]))
         d_results['percent_correct'].append(evl.percent_correct)
         d_results['percent_incorrect'].append(evl.percent_incorrect)
@@ -333,10 +336,10 @@ def create_results_voting(prediction, folder_to_save_results, name_file, i, deta
         (df[['indicator', 'image']].groupby(['indicator']).count())))
     print('\n\n')
     print("Numero di immagini classificate scorrettamente con indicatore:\n" + str(
-        (c[0][['indicator', 'status']].groupby(['indicator']).count())))
+        (c[1][['indicator', 'status']].groupby(['indicator']).count())))
     print('\n')
     print("Numero di immagini classificate scorrettamente con label:\n" + str(
-        (c[0][['original label', 'status']].groupby(['original label']).count())))
+        (c[1][['original label', 'status']].groupby(['original label']).count())))
     print('\n\n')
     print("Caso feature pari e nessuna classe in numero maggiore: \n")
     print('attentive')
